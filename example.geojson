@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.04556,
+          53.803517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Peru",
+          "popupShape": "Panel",
+          "iconClass": "Drop"
+        },
+        "name": "a",
+        "description": "{{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}} \n"
+      },
+      "id": "pCR5F"
+    }
+  ]
+}
