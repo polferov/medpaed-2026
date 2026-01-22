@@ -1,4 +1,5 @@
 #:property PublishAot=false
+#:package CsvHelper@33.1.0
 using System.Text.Json;
 using System.Text.Json.Nodes;
 using System.Text.Json.Serialization;
@@ -12,15 +13,56 @@ var serializerOptions = new JsonSerializerOptions
 using var fs = File.OpenRead("input.geojson");
 var geo = await JsonSerializer.DeserializeAsync<GeoJsonRoot>(fs, serializerOptions);
 
-foreach (var f in geo.Features)
+// read corallation-filled-out.csv as Corallation[] using CsvHelper
+using var csvFs = File.OpenRead("corallation-filled-out.csv");
+using var reader = new StreamReader(csvFs);
+using var csv = new CsvHelper.CsvReader(reader, System.Globalization.CultureInfo.InvariantCulture);
+var corallations = csv.GetRecords<Corallation>().ToArray();
+
+if(corallations.Length != geo.Features.Length)
 {
-    f.Properties.UmapOptions = UmapOptions.Default;
-    f.Properties.Name = Guid.NewGuid().ToString();
-    f.Properties.Description = "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}";
+    throw new Exception("Corallation count does not match feature count");
 }
+
+var categories = new Dictionary<string, string>
+{
+    ["Beginn"] = "red",
+};
+
+
+foreach (var entry in geo.Features.Zip(corallations))
+{
+    var f = entry.First;
+    var c = entry.Second;
+    f.Properties.UmapOptions = UmapOptions.Default;
+    f.Properties.Name = c.Name;
+    if(!string.IsNullOrWhiteSpace(c.Category))
+        f.Properties.UmapOptions.Color = categories.GetValueOrDefault(c.Category, "black");
+    f.Properties.Description = 
+    $$$"""
+    {{{c.Description}}}
+    {{http://localhost:8000/{{{c.ImageId}}}}}
+    """;
+}
+
 
 using var outputFs = File.Create("output.geojson");
 await JsonSerializer.SerializeAsync(outputFs, geo, serializerOptions);
+
+void CreateCsv(GeoJsonRoot geo)
+{
+    using var csv = File.OpenWrite("corallation.csv");
+    using var writer = new StreamWriter(csv);
+    writer.WriteLine("Id,Lazy Title,Name,Description,Category, ImageId");
+    foreach (var f in geo.Features)
+    {
+        writer.WriteLine(
+            $"""
+            "{f.Properties.Id}","{f.Properties.Text}","",""
+            """
+        );
+    }
+}
 
 class GeoJsonRoot
 {
@@ -59,11 +101,20 @@ class UmapOptions
     public string IconClass { get; set; }
     public string PopupTemplate { get; set; }
 
-    public static UmapOptions Default { get; } = new UmapOptions
+    public static UmapOptions Default => new UmapOptions
     {
-        Color = "blue",
-        PopupShape = "Panel",
-        IconClass = "Drop",
-        PopupTemplate = "OSM"
+        Color = "turquoise",
+        PopupShape = "Panel", // Large or Panel
+        IconClass = "Drop"
     };
+}
+
+class Corallation
+{
+    public int Id { get; set; }
+    public string LazyTitle { get; set; }
+    public string Name { get; set; }
+    public string Description { get; set; }
+    public string Category { get; set; }
+    public string ImageId { get; set; }
 }

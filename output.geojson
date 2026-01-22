@@ -21,13 +21,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:10:32",
         "_umap_options": {
-          "color": "blue",
+          "color": "black",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "2df0b46e-b416-464b-b4da-8918584a56dc",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "Beginn",
+        "description": "Anfang\n{{http://localhost:8000/DSC07480.JPG}}"
       }
     },
     {
@@ -50,13 +50,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:14:59",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "36edd909-ba68-4723-8b6b-8d2c3a987de2",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "Einfamilienh\u00E4user",
+        "description": "\n{{http://localhost:8000/DSC07482.JPG}}"
       }
     },
     {
@@ -79,13 +79,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:16:09",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "decbc44a-ec60-4494-b673-3ac91a8711c5",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "Verkehr",
+        "description": "\n{{http://localhost:8000/DSC07483.JPG}}"
       }
     },
     {
@@ -108,13 +108,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:17:19",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "baa8e487-b22a-4306-92de-16ff213ce9c2",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07484.JPG}}"
       }
     },
     {
@@ -137,13 +137,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:17:58",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "79d5a68d-b3b3-4df7-9d13-bb8134d18008",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07485.JPG}}"
       }
     },
     {
@@ -166,13 +166,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:19:54",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "1be562e8-3f6f-45e7-868b-831fc8236476",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07486.JPG}}"
       }
     },
     {
@@ -195,13 +195,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:22:16",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "1c86ed20-2ac9-41c6-a259-92477c9242cf",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07487.JPG}}"
       }
     },
     {
@@ -224,13 +224,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:23:22",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "3c7e97e2-42ac-4f01-89a1-8f5fba7341aa",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07488.JPG}}"
       }
     },
     {
@@ -253,13 +253,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:25:16",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "41fc3764-16a9-4f07-a367-68da19483b19",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07489.JPG}}"
       }
     },
     {
@@ -282,13 +282,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:26:54",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "2467a0b0-c28a-467b-ba06-ae81938ad1f5",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07490.JPG}}"
       }
     },
     {
@@ -311,13 +311,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:27:15",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "7c623dc8-d565-45cd-8a70-ddd027b0e117",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07491.JPG}}"
       }
     },
     {
@@ -340,13 +340,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:27:46",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "c9f6fa0f-20e9-4b9a-92b8-6789d3575e1f",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07492.JPG}}"
       }
     },
     {
@@ -369,13 +369,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:28:31",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "f7a86b80-4405-481d-a514-26706b615766",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07494JPG}}"
       }
     },
     {
@@ -398,13 +398,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:29:34",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "230674da-e4be-4944-94ce-899573f7f978",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07493.JPG}}"
       }
     },
     {
@@ -427,13 +427,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:30:12",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "9bd38a5b-eaca-40cf-8a5b-41da4e2ff605",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07495.JPG}}"
       }
     },
     {
@@ -456,13 +456,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:30:17",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "940f41a8-2b2d-4984-baf4-98e8c4953b89",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07496.JPG}}"
       }
     },
     {
@@ -485,13 +485,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:30:33",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "050fa9b1-e19c-48f1-9f7c-f140182a1ce6",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07497.JPG}}"
       }
     },
     {
@@ -514,13 +514,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:31:39",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "04bc2c88-251d-473b-8b53-6ecf406b4449",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07498.JPG}}"
       }
     },
     {
@@ -543,13 +543,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:32:11",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "7fa495f4-0021-40bd-8604-6fa61de13625",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07499.JPG}}"
       }
     },
     {
@@ -572,13 +572,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:32:22",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "7d086f8b-86e6-4118-9d5f-a42c3f58a11f",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07500.JPG}}"
       }
     },
     {
@@ -601,13 +601,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:33:33",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "24861ca0-4ee7-42b6-8afd-cf7c6d0215ed",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07501.JPG}}"
       }
     },
     {
@@ -630,13 +630,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:34:33",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "8e9ac125-8aaa-4437-9645-c5fc521e96de",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07502.JPG}}"
       }
     },
     {
@@ -659,13 +659,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:36:31",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "453e7b92-f42d-4949-a4be-516a29dcc358",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07503.JPG}}"
       }
     },
     {
@@ -688,13 +688,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:36:47",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "2c6a05ac-19e2-453c-8e9a-d22548f1d3f9",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07504.JPG}}"
       }
     },
     {
@@ -717,13 +717,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:37:47",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "dea9f0df-1737-442d-9eb7-2eeda554ded6",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07505.JPG}}"
       }
     },
     {
@@ -746,13 +746,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:41:35",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "fd272b0b-8632-4b13-8d03-25f52576e534",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07506.JPG}}"
       }
     },
     {
@@ -775,13 +775,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:43:17",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "6e601672-b7e4-4992-8d25-00e0922ca2ba",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07509.JPG}}"
       }
     },
     {
@@ -804,13 +804,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:44:44",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "2f2c5d6c-c81d-49ee-8e64-a720f01ebf91",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07507.JPG}}"
       }
     },
     {
@@ -833,13 +833,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:45:07",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "2f49353a-668f-4131-a927-274a79fd1fa2",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07508.JPG}}"
       }
     },
     {
@@ -862,13 +862,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:46:16",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "f3a68cae-c6fc-43d8-8453-1ce2b178a122",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07510.JPG}}"
       }
     },
     {
@@ -891,13 +891,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:48:14",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "47ade84b-d9a7-4538-9813-925244cbb5b8",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
       }
     },
     {
@@ -920,13 +920,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:50:06",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "4cb8d5a1-8082-4e16-ad40-f6796e9c51eb",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
       }
     },
     {
@@ -949,13 +949,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:53:00",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "04d2efc9-ad34-474f-ba87-1d28ffd9b606",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
       }
     },
     {
@@ -978,13 +978,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:53:35",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "a837e241-c38f-490f-b50d-82796e302476",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
       }
     },
     {
@@ -1007,13 +1007,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:55:15",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "42e23a58-c70c-4318-ae5b-41c60c41c245",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
       }
     },
     {
@@ -1036,13 +1036,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:56:22",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "c7d0e66a-62bf-4498-93ed-b41c35218763",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
       }
     },
     {
@@ -1065,13 +1065,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:58:01",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "43b979ce-f05e-473a-a8ed-6121282b6f5c",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
       }
     },
     {
@@ -1094,13 +1094,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:58:51",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "a8f2abe3-3f47-4b15-a67e-1fdb8bedde30",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
       }
     },
     {
@@ -1123,13 +1123,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:03:16",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "85696da8-8e97-4343-ab2f-7c9c3e23c65a",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
       }
     },
     {
@@ -1152,13 +1152,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:03:44",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "b1df17f2-d88b-4da1-94e6-08eb95a59f37",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
       }
     },
     {
@@ -1181,13 +1181,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:05:23",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "0f2b9f17-ad15-43fb-9c85-17b82ecf7efa",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1210,13 +1210,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:05:44",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "adeff7f5-2cde-4610-bfe8-1515d9665c36",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1239,13 +1239,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:05:51",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "c05c77fc-2a4c-4457-98f6-71b8777bf668",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1268,13 +1268,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:07:56",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "5e298af8-e545-42b4-b692-90582f0ee04a",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1297,13 +1297,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:11:20",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "83a194fc-0a11-4b3b-bda4-3ff7351cb406",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1326,13 +1326,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:11:31",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "79b28ecb-c871-48a4-9b96-a4186b842756",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1355,13 +1355,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:11:58",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "818b6f00-5d2a-4093-99a5-1b12821acfa1",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1384,13 +1384,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:12:37",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "247ef51d-cdc1-4a41-9066-31e63744c4a1",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1413,13 +1413,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:13:50",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "acd32003-793f-49f1-bdcd-dbc793dd8e07",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1442,13 +1442,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:14:14",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "0ab5cfb0-f8cd-4bdb-8308-8e62ba8d31c1",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1471,13 +1471,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:14:52",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "7a57f4df-d6d5-4845-a043-5f9f0146118a",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1500,13 +1500,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:16:06",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "540b7ad1-c96b-4060-9e70-358eacd63914",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1529,13 +1529,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:18:00",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "6b75fdf4-0efd-4bdb-a59e-35c1f4a1703b",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1558,13 +1558,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:18:15",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "dec22924-dc88-45a4-a12c-a344b5aaf721",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1587,13 +1587,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:18:52",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "d234297c-654d-48f6-a9ec-c65660ed83a8",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1616,13 +1616,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:19:07",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "f343b65d-5daa-42d9-b564-08cca6df25ed",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1645,13 +1645,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:22:14",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "59c3e26b-9d73-49bd-b62e-dc8bbfbbb184",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1674,13 +1674,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:22:24",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "f0a78a6f-d4fc-41bb-8c16-9df7e160c183",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1703,13 +1703,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:23:10",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "21b56a8a-5cbd-4b7c-898e-d4b619238047",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1732,13 +1732,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:24:04",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "21e5e604-7c3e-4e76-8e10-15a68af5622a",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1761,13 +1761,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:26:14",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "08f5d2de-1b67-45ab-8638-5bf54ad54b95",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1790,13 +1790,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:27:49",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "e1d4a2d8-85e9-45ba-90b5-c6836ecd7b6b",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1819,13 +1819,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:28:11",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "a6b86819-89ac-4c05-a299-8219b2ce5d29",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1848,13 +1848,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:29:15",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "68754f3a-382a-4b32-8cf6-f0902c73a7fe",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1877,13 +1877,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:29:50",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "9d459d58-ed7a-4975-a188-1d9d61ceffda",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1906,13 +1906,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:30:27",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "d1b8a6c4-c86e-47a8-acf8-ed459a2672f2",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1935,13 +1935,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:31:13",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "9ea4500b-5340-46c3-bdf2-7edc0e4a776f",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1964,13 +1964,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:31:52",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "99e46ff0-c7c3-4d11-b26a-fd33cc055f2d",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -1993,13 +1993,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:32:01",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "bff32c06-cc11-4ab4-8c89-91fa05625079",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2022,13 +2022,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:33:00",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "c53caec6-fe58-456d-8b45-fed77f1b050e",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2051,13 +2051,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:34:14",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "23b4fcd4-1d9a-4485-ab9a-ee8352480dcc",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2080,13 +2080,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:34:55",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "da66f05e-8c75-46cb-994e-c7b0fcc945dc",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2109,13 +2109,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:39:37",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "1a93d61f-0b26-4050-8741-413000e2e667",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2138,13 +2138,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:40:00",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "a546732d-aeaf-4006-bfab-1fc0668128a7",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2167,13 +2167,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:41:50",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "95489728-ff13-4a0f-b59f-39b5552ffdab",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2196,13 +2196,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:42:00",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "5a184c87-18b9-4dc2-ba27-6d68236f8505",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2225,13 +2225,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:44:50",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "0c0a08a4-9e8e-40e9-b7f4-1211e5199110",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2254,13 +2254,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:45:32",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "d4970ed5-c7e4-4b3e-8a02-45a60176d1fc",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2283,13 +2283,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:47:22",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "982b40c4-65da-4519-b7e8-f39c33ba8507",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2312,13 +2312,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:47:45",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "8571bf56-a482-4a6c-8a89-e0a5ca118bdc",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2341,13 +2341,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:48:02",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "4b0071f3-94a3-4104-9d4b-1694cc64befa",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2370,13 +2370,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:49:16",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "5d6cca6c-c9ab-4486-94d8-997d367e8828",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2399,13 +2399,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:49:54",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "ba680da1-b959-49a2-a152-f21750d51d35",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2428,13 +2428,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:51:36",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "9ed09cc6-3a09-49d3-86dd-a17316a526e9",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2457,13 +2457,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:54:16",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "ef3f6b8b-ca37-4978-b33b-7be8858ce48a",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2486,13 +2486,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:56:13",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "5ec13ef4-4ae1-47bd-9953-32d5f777f72e",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2515,13 +2515,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:57:50",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "9debebb7-1f16-4cad-9e80-fe86cb4565d0",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2544,13 +2544,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:59:51",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "ce161c11-10d9-4ece-ab8b-867c55339bf1",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2573,13 +2573,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:01:22",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "e20311e3-8bff-4b0d-a9cc-cd2151063915",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2602,13 +2602,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:02:28",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "637ae992-cc07-49d6-a5e3-b28a24133163",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2631,13 +2631,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:03:52",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "9a406265-793a-420f-a553-9801bb2c93c2",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2660,13 +2660,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:04:04",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "4139078d-9b5b-482b-8a90-83e374d6ab94",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2689,13 +2689,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:06:27",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "00c01db3-89b6-4d14-8e54-6b2d0be74170",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2718,13 +2718,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:06:56",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "0dfeef0b-99a1-4b91-8127-a6827213dfdc",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2747,13 +2747,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:07:25",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "2c29dfbb-1c29-48ab-b516-62d52667ff84",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2776,13 +2776,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:09:06",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "f8e7e737-201e-49b4-8154-a74b32af3348",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2805,13 +2805,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:12:29",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "06f5c4ca-6828-4098-ac8b-7a60b9a5a8ac",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2834,13 +2834,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:13:05",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "0a752408-f256-42d5-8e0a-e2e8860eccbb",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2863,13 +2863,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:14:25",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "2daf1979-ac42-4c32-b28f-a5d2f9a4a0a4",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2892,13 +2892,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:16:24",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "13b42856-b2cf-4cf4-a0eb-eb298e629f86",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     },
     {
@@ -2921,13 +2921,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:19:55",
         "_umap_options": {
-          "color": "blue",
+          "color": "turquoise",
           "popupShape": "Panel",
           "iconClass": "Drop",
-          "popupTemplate": "OSM"
+          "popupTemplate": null
         },
-        "name": "5238177d-6032-4506-8237-b5869f385a38",
-        "description": "This is a description {{https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png}}"
+        "name": "",
+        "description": "\n{{http://localhost:8000/}}"
       }
     }
   ]
