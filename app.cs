@@ -67,13 +67,16 @@ foreach (var entry in geo.Features.Zip(corallations))
     """;
     foreach (var img in c.ImageId.Split(' '))
     {
-        if (!File.Exists($"img/{img}"))
+        if(!img.EndsWith(".JPG"))
+            throw new Exception($"File extension must be .JPG: {img}");
+        var file = img[..^4] + ".small.JPG";
+        if (!File.Exists($"img/{file}"))
         {
-            Console.WriteLine($"Image not found: {img}");
+            Console.WriteLine($"Image not found: {file}");
             continue;
         }
 
-        var url = $"https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/{img}";
+        var url = $"https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/{file}";
         f.Properties.Description +=
         $$$"""
         

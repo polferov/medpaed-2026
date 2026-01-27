@@ -27,7 +27,7 @@
           "popupTemplate": null
         },
         "name": "Beginn",
-        "description": "Anfang\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07480.JPG}}"
+        "description": "Anfang\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07480.small.JPG}}"
       }
     },
     {
@@ -56,7 +56,7 @@
           "popupTemplate": null
         },
         "name": "Einfamilienh\u00E4user",
-        "description": "Vermutlich Eigenheimbesitzer\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07482.JPG}}"
+        "description": "Vermutlich Eigenheimbesitzer\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07482.small.JPG}}"
       }
     },
     {
@@ -85,7 +85,7 @@
           "popupTemplate": null
         },
         "name": "Verkehr",
-        "description": "Autoverkehr \n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07483.JPG}}"
+        "description": "Autoverkehr \n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07483.small.JPG}}"
       }
     },
     {
@@ -114,7 +114,7 @@
           "popupTemplate": null
         },
         "name": "Neue Fahrradwege",
-        "description": "Rote Radwege\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07484.JPG}}"
+        "description": "Rote Radwege\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07484.small.JPG}}"
       }
     },
     {
@@ -143,7 +143,7 @@
           "popupTemplate": null
         },
         "name": "Einfamilienhaus ",
-        "description": "Besonderes Geb\u00E4ude\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07485.JPG}}"
+        "description": "Besonderes Geb\u00E4ude\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07485.small.JPG}}"
       }
     },
     {
@@ -172,7 +172,7 @@
           "popupTemplate": null
         },
         "name": "Firmenwagen",
-        "description": "Altes Modell steht vor einem Einfamilienhaus \n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07486.JPG}}"
+        "description": "Altes Modell steht vor einem Einfamilienhaus \n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07486.small.JPG}}"
       }
     },
     {
@@ -201,7 +201,7 @@
           "popupTemplate": null
         },
         "name": "Photovoltaik-Platten",
-        "description": "Nur auf Einfamilienh\u00E4usern\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07487.JPG}}"
+        "description": "Nur auf Einfamilienh\u00E4usern\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07487.small.JPG}}"
       }
     },
     {
@@ -230,7 +230,7 @@
           "popupTemplate": null
         },
         "name": "Solar-Platten",
-        "description": "Nur auf Einfamilienh\u00E4usern\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07488.JPG}}"
+        "description": "Nur auf Einfamilienh\u00E4usern\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07488.small.JPG}}"
       }
     },
     {
@@ -259,7 +259,7 @@
           "popupTemplate": null
         },
         "name": "Elbb\u00E4cker",
-        "description": "1.Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07489.JPG}}"
+        "description": "1.Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07489.small.JPG}}"
       }
     },
     {
@@ -288,7 +288,7 @@
           "popupTemplate": null
         },
         "name": "Schuhcontainer",
-        "description": "Schuhcontainer\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07490.JPG}}"
+        "description": "Schuhcontainer\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07490.small.JPG}}"
       }
     },
     {
@@ -317,7 +317,7 @@
           "popupTemplate": null
         },
         "name": "Recycling Sammelbeh\u00E4lter",
-        "description": "6 Sammelbeh\u00E4lter/Glas, Kleidung, Papier\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07491.JPG}}"
+        "description": "6 Sammelbeh\u00E4lter/Glas, Kleidung, Papier\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07491.small.JPG}}"
       }
     },
     {
@@ -346,7 +346,7 @@
           "popupTemplate": null
         },
         "name": "Postkasten ",
-        "description": "Postkasten\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07492.JPG}}"
+        "description": "Postkasten\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07492.small.JPG}}"
       }
     },
     {
@@ -375,7 +375,7 @@
           "popupTemplate": null
         },
         "name": "Parkpl\u00E4tze",
-        "description": "Parkpl\u00E4tze vor Mehrfamilienh\u00E4usern\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07494.JPG}}"
+        "description": "Parkpl\u00E4tze vor Mehrfamilienh\u00E4usern\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07494.small.JPG}}"
       }
     },
     {
@@ -404,7 +404,7 @@
           "popupTemplate": null
         },
         "name": "Bushaltestelle",
-        "description": "Bushaltestelle ohne Wetterschutz\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07493.JPG}}"
+        "description": "Bushaltestelle ohne Wetterschutz\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07493.small.JPG}}"
       }
     },
     {
@@ -433,7 +433,7 @@
           "popupTemplate": null
         },
         "name": "Friseur ",
-        "description": "Dreamcut II\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07495.JPG}}"
+        "description": "Dreamcut II\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07495.small.JPG}}"
       }
     },
     {
@@ -462,7 +462,7 @@
           "popupTemplate": null
         },
         "name": "Drogerie ",
-        "description": "steht leer\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07496.JPG}}"
+        "description": "steht leer\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07496.small.JPG}}"
       }
     },
     {
@@ -491,7 +491,7 @@
           "popupTemplate": null
         },
         "name": "Geldinstitut 1",
-        "description": "1. Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07497.JPG}}"
+        "description": "1. Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07497.small.JPG}}"
       }
     },
     {
@@ -520,7 +520,7 @@
           "popupTemplate": null
         },
         "name": "Immobilienwerbung",
-        "description": "Bilder der zum Verkauf stehenden H\u00E4user und Wohnungen im Schaufenster der Spaka/VR\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07498.JPG}}"
+        "description": "Bilder der zum Verkauf stehenden H\u00E4user und Wohnungen im Schaufenster der Spaka/VR\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07498.small.JPG}}"
       }
     },
     {
@@ -549,7 +549,7 @@
           "popupTemplate": null
         },
         "name": "Tief-und Stra\u00DFenbau",
-        "description": "Werbetafel\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07499.JPG}}"
+        "description": "Werbetafel\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07499.small.JPG}}"
       }
     },
     {
@@ -578,7 +578,7 @@
           "popupTemplate": null
         },
         "name": "Standortwerbung",
-        "description": "Karte \u00FCber Verteilung von VR-Filialen in Holstein\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07500.JPG}}"
+        "description": "Karte \u00FCber Verteilung von VR-Filialen in Holstein\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07500.small.JPG}}"
       }
     },
     {
@@ -607,7 +607,7 @@
           "popupTemplate": null
         },
         "name": "Photovolatatk-Platten 2",
-        "description": "nur auf Einfamilienh\u00E4usern\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07501.JPG}}"
+        "description": "nur auf Einfamilienh\u00E4usern\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07501.small.JPG}}"
       }
     },
     {
@@ -636,7 +636,7 @@
           "popupTemplate": null
         },
         "name": "Die Continetale",
-        "description": "Versicherung\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07502.JPG}}"
+        "description": "Versicherung\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07502.small.JPG}}"
       }
     },
     {
@@ -665,7 +665,7 @@
           "popupTemplate": null
         },
         "name": "W\u00E4rmetechnik nord",
-        "description": "Werbeschild am Zaun\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07503.JPG}}"
+        "description": "Werbeschild am Zaun\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07503.small.JPG}}"
       }
     },
     {
@@ -694,7 +694,7 @@
           "popupTemplate": null
         },
         "name": "Einfamilienhaus",
-        "description": "Auff\u00E4llig mit HSV - Emblemen versehen\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07504.JPG}}"
+        "description": "Auff\u00E4llig mit HSV - Emblemen versehen\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07504.small.JPG}}"
       }
     },
     {
@@ -723,7 +723,7 @@
           "popupTemplate": null
         },
         "name": "Physiotherapiepraxis",
-        "description": "Anzeigeschild im Vorgarten\n\nCategory: Gesundheitseinrichtungen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07505.JPG}}"
+        "description": "Anzeigeschild im Vorgarten\n\nCategory: Gesundheitseinrichtungen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07505.small.JPG}}"
       }
     },
     {
@@ -752,7 +752,7 @@
           "popupTemplate": null
         },
         "name": "Mehrfamilienhaus",
-        "description": "Vermutlich Mietwohnungen\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07506.JPG}}"
+        "description": "Vermutlich Mietwohnungen\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07506.small.JPG}}"
       }
     },
     {
@@ -781,7 +781,7 @@
           "popupTemplate": null
         },
         "name": "Mehrfamilienhaus",
-        "description": "Vermutlich Mietwohnungen \n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07509.JPG}}"
+        "description": "Vermutlich Mietwohnungen \n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07509.small.JPG}}"
       }
     },
     {
@@ -810,7 +810,7 @@
           "popupTemplate": null
         },
         "name": "Kirche",
-        "description": "moderne Architektur\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07507.JPG}}"
+        "description": "moderne Architektur\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07507.small.JPG}}"
       }
     },
     {
@@ -839,7 +839,7 @@
           "popupTemplate": null
         },
         "name": "Kindertagesst\u00E4tte",
-        "description": "bunter Eingangsbereich\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07508.JPG}}"
+        "description": "bunter Eingangsbereich\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07508.small.JPG}}"
       }
     },
     {
@@ -868,7 +868,7 @@
           "popupTemplate": null
         },
         "name": "Bushaltestelle",
-        "description": "mit Regenschutz\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07510.JPG}}"
+        "description": "mit Regenschutz\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07510.small.JPG}}"
       }
     },
     {
@@ -897,7 +897,7 @@
           "popupTemplate": null
         },
         "name": "Parkplatz",
-        "description": "f\u00FCr die umliegenden Wohnblocks, auch mietbare\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07511.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07512.JPG}}"
+        "description": "f\u00FCr die umliegenden Wohnblocks, auch mietbare\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07511.small.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07512.small.JPG}}"
       }
     },
     {
@@ -926,7 +926,7 @@
           "popupTemplate": null
         },
         "name": "Thomas-Mann-Stra\u00DFe",
-        "description": "Stra\u00DFenschild mit Kurzinfo \u00FCber T. Mann\n\nCategory: Stra\u00DFennamen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07513.JPG}}"
+        "description": "Stra\u00DFenschild mit Kurzinfo \u00FCber T. Mann\n\nCategory: Stra\u00DFennamen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07513.small.JPG}}"
       }
     },
     {
@@ -955,7 +955,7 @@
           "popupTemplate": null
         },
         "name": "\u00C4rztehaus",
-        "description": "11 namentlich genannte Fach\u00E4rzte\n\nCategory: Gesundheitseinrichtungen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07514.JPG}}"
+        "description": "11 namentlich genannte Fach\u00E4rzte\n\nCategory: Gesundheitseinrichtungen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07514.small.JPG}}"
       }
     },
     {
@@ -984,7 +984,7 @@
           "popupTemplate": null
         },
         "name": "Apotheke",
-        "description": "Apotheke\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07515.JPG}}"
+        "description": "Apotheke\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07515.small.JPG}}"
       }
     },
     {
@@ -1013,7 +1013,7 @@
           "popupTemplate": null
         },
         "name": "leerstehende Gewerbefl\u00E4che",
-        "description": "leerstehendes Gewerbefl\u00E4che\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07516.JPG}}"
+        "description": "leerstehendes Gewerbefl\u00E4che\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07516.small.JPG}}"
       }
     },
     {
@@ -1042,7 +1042,7 @@
           "popupTemplate": null
         },
         "name": "Der Fu\u00DFspezialist",
-        "description": "Fu\u00DFpflege\n\nCategory: Gesundheitseinrichtungen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07517.JPG}}"
+        "description": "Fu\u00DFpflege\n\nCategory: Gesundheitseinrichtungen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07517.small.JPG}}"
       }
     },
     {
@@ -1071,7 +1071,7 @@
           "popupTemplate": null
         },
         "name": "Friseur",
-        "description": "1. Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07519.JPG}}"
+        "description": "1. Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07519.small.JPG}}"
       }
     },
     {
@@ -1100,7 +1100,7 @@
           "popupTemplate": null
         },
         "name": "Friseur",
-        "description": "ist in der 1. Filiale von manuel\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07518.JPG}}"
+        "description": "ist in der 1. Filiale von manuel\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07518.small.JPG}}"
       }
     },
     {
@@ -1129,7 +1129,7 @@
           "popupTemplate": null
         },
         "name": "Friseur",
-        "description": "2. Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07520.JPG}}"
+        "description": "2. Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07520.small.JPG}}"
       }
     },
     {
@@ -1158,7 +1158,7 @@
           "popupTemplate": null
         },
         "name": "Netto",
-        "description": "Supermarkt \n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07521.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07522.JPG}}"
+        "description": "Supermarkt \n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07521.small.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07522.small.JPG}}"
       }
     },
     {
@@ -1187,7 +1187,7 @@
           "popupTemplate": null
         },
         "name": "Elbb\u00E4cker 2",
-        "description": "2.Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07523.JPG}}"
+        "description": "2.Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07523.small.JPG}}"
       }
     },
     {
@@ -1216,7 +1216,7 @@
           "popupTemplate": null
         },
         "name": "K\u00F6lln Flocken",
-        "description": "Fabrik, Hersteller f\u00FCr Fr\u00FChst\u00FCckscerealien\n\nCategory: Fabrikgeb\u00E4ude\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07524.JPG}}"
+        "description": "Fabrik, Hersteller f\u00FCr Fr\u00FChst\u00FCckscerealien\n\nCategory: Fabrikgeb\u00E4ude\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07524.small.JPG}}"
       }
     },
     {
@@ -1245,7 +1245,7 @@
           "popupTemplate": null
         },
         "name": "Physiotherapiepraxis",
-        "description": "Physiotherapiepraxis\n\nCategory: Gesundheitseinrichtungen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07525.JPG}}"
+        "description": "Physiotherapiepraxis\n\nCategory: Gesundheitseinrichtungen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07525.small.JPG}}"
       }
     },
     {
@@ -1274,7 +1274,7 @@
           "popupTemplate": null
         },
         "name": "Elbb\u00E4cker 3",
-        "description": "3.Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07527.JPG}}"
+        "description": "3.Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07527.small.JPG}}"
       }
     },
     {
@@ -1303,7 +1303,7 @@
           "popupTemplate": null
         },
         "name": "Autoservice",
-        "description": "Autoservice Mueller\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07526.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07528.JPG}}"
+        "description": "Autoservice Mueller\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07526.small.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07528.small.JPG}}"
       }
     },
     {
@@ -1332,7 +1332,7 @@
           "popupTemplate": null
         },
         "name": "Leerfl\u00E4che",
-        "description": "umz\u00E4unter Sandplatz\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07529.JPG}}"
+        "description": "umz\u00E4unter Sandplatz\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07529.small.JPG}}"
       }
     },
     {
@@ -1361,7 +1361,7 @@
           "popupTemplate": null
         },
         "name": "Wohnkomplex in Arbeit",
-        "description": "Baustelle, vermutlich Entstehung eines Wohnkomplexes\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07530.JPG}}"
+        "description": "Baustelle, vermutlich Entstehung eines Wohnkomplexes\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07530.small.JPG}}"
       }
     },
     {
@@ -1390,7 +1390,7 @@
           "popupTemplate": null
         },
         "name": "Autowaschanlage",
-        "description": "Autowaschanlage\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07531.JPG}}"
+        "description": "Autowaschanlage\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07531.small.JPG}}"
       }
     },
     {
@@ -1419,7 +1419,7 @@
           "popupTemplate": null
         },
         "name": "Bauvorhaben",
-        "description": "Anzeigetafel \u00FCber den R\u00FCckbau von 2 Geb\u00E4uden\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07532.JPG}}"
+        "description": "Anzeigetafel \u00FCber den R\u00FCckbau von 2 Geb\u00E4uden\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07532.small.JPG}}"
       }
     },
     {
@@ -1448,7 +1448,7 @@
           "popupTemplate": null
         },
         "name": "Fabrikgeb\u00E4ude",
-        "description": "leerstehendes Geb\u00E4ude\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07533.JPG}}"
+        "description": "leerstehendes Geb\u00E4ude\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07533.small.JPG}}"
       }
     },
     {
@@ -1477,7 +1477,7 @@
           "popupTemplate": null
         },
         "name": "Kulturzentrum",
-        "description": "Hinweisplakat f\u00FCr Kommunikation, Kunst und Kultur im Kranhaus\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07534.JPG}}"
+        "description": "Hinweisplakat f\u00FCr Kommunikation, Kunst und Kultur im Kranhaus\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07534.small.JPG}}"
       }
     },
     {
@@ -1506,7 +1506,7 @@
           "popupTemplate": null
         },
         "name": "Mehrfamilienhaus",
-        "description": "Hinweisschild f\u00FCr Stadtumbau, neues Leben im alten Denkmal\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07535.JPG}}"
+        "description": "Hinweisschild f\u00FCr Stadtumbau, neues Leben im alten Denkmal\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07535.small.JPG}}"
       }
     },
     {
@@ -1535,7 +1535,7 @@
           "popupTemplate": null
         },
         "name": "Parkplatz",
-        "description": "Parkplatz auf Freifl\u00E4che\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07537.JPG}}"
+        "description": "Parkplatz auf Freifl\u00E4che\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07537.small.JPG}}"
       }
     },
     {
@@ -1564,7 +1564,7 @@
           "popupTemplate": null
         },
         "name": "Baustelle",
-        "description": "Hohe Kr\u00E4ne f\u00FCr Baustelle\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07536.JPG}}"
+        "description": "Hohe Kr\u00E4ne f\u00FCr Baustelle\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07536.small.JPG}}"
       }
     },
     {
@@ -1593,7 +1593,7 @@
           "popupTemplate": null
         },
         "name": "K\u00F6lln Flocken",
-        "description": "Fabrik, Hersteller f\u00FCr Fr\u00FChst\u00FCckscerealien\n\nCategory: Fabrikgeb\u00E4ude\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07538.JPG}}"
+        "description": "Fabrik, Hersteller f\u00FCr Fr\u00FChst\u00FCckscerealien\n\nCategory: Fabrikgeb\u00E4ude\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07538.small.JPG}}"
       }
     },
     {
@@ -1622,7 +1622,7 @@
           "popupTemplate": null
         },
         "name": "kein Winterdienst",
-        "description": "Hinweisschild f\u00FCr Stadtumbau, neues Leben im alten Denkmal\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07539.JPG}}"
+        "description": "Hinweisschild f\u00FCr Stadtumbau, neues Leben im alten Denkmal\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07539.small.JPG}}"
       }
     },
     {
@@ -1651,7 +1651,7 @@
           "popupTemplate": null
         },
         "name": "Orlen Deutschland",
-        "description": "Werbung f\u00FCr Trikothersteller an der Bushaltestelle\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07540.JPG}}"
+        "description": "Werbung f\u00FCr Trikothersteller an der Bushaltestelle\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07540.small.JPG}}"
       }
     },
     {
@@ -1680,7 +1680,7 @@
           "popupTemplate": null
         },
         "name": "Hochhaus",
-        "description": "vermutlich Mietwohnungen\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07541.JPG}}"
+        "description": "vermutlich Mietwohnungen\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07541.small.JPG}}"
       }
     },
     {
@@ -1709,7 +1709,7 @@
           "popupTemplate": null
         },
         "name": "Geldinstitut 2",
-        "description": "2. Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07542.JPG}}"
+        "description": "2. Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07542.small.JPG}}"
       }
     },
     {
@@ -1738,7 +1738,7 @@
           "popupTemplate": null
         },
         "name": "Fluss",
-        "description": "Hinweisschild auf der Br\u00FCcke \u00FCber den Fluss\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07543.JPG}}"
+        "description": "Hinweisschild auf der Br\u00FCcke \u00FCber den Fluss\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07543.small.JPG}}"
       }
     },
     {
@@ -1767,7 +1767,7 @@
           "popupTemplate": null
         },
         "name": "E-Scouter",
-        "description": "Fortbewegungsmittel \n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07546.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07547.JPG}}"
+        "description": "Fortbewegungsmittel \n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07546.small.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07547.small.JPG}}"
       }
     },
     {
@@ -1796,7 +1796,7 @@
           "popupTemplate": null
         },
         "name": "Fu\u00DFg\u00E4ngerzone",
-        "description": "Weihnachtsbeleuchtung \u00FCber der Fu\u00DFg\u00E4ngerzone\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07548.JPG}}"
+        "description": "Weihnachtsbeleuchtung \u00FCber der Fu\u00DFg\u00E4ngerzone\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07548.small.JPG}}"
       }
     },
     {
@@ -1825,7 +1825,7 @@
           "popupTemplate": null
         },
         "name": "O2-Shop",
-        "description": "Werbung Black Weeks\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07549.JPG}}"
+        "description": "Werbung Black Weeks\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07549.small.JPG}}"
       }
     },
     {
@@ -1854,7 +1854,7 @@
           "popupTemplate": null
         },
         "name": "Immobilienwerbung",
-        "description": "GG, Aushang der Bilder von H\u00E4usern und Wohnungen\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07550.JPG}}"
+        "description": "GG, Aushang der Bilder von H\u00E4usern und Wohnungen\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07550.small.JPG}}"
       }
     },
     {
@@ -1883,7 +1883,7 @@
           "popupTemplate": null
         },
         "name": "viele kleine Gesch\u00E4fte",
-        "description": "Haarstudio, Gastroshops und Arko\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07551.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07552.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07553.JPG}}"
+        "description": "Haarstudio, Gastroshops und Arko\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07551.small.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07552.small.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07553.small.JPG}}"
       }
     },
     {
@@ -1912,7 +1912,7 @@
           "popupTemplate": null
         },
         "name": "Gewerkschaft",
-        "description": "DGB\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07554.JPG}}"
+        "description": "DGB\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07554.small.JPG}}"
       }
     },
     {
@@ -1941,7 +1941,7 @@
           "popupTemplate": null
         },
         "name": "Geldinstitut 3",
-        "description": "1. Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07555.JPG}}"
+        "description": "1. Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07555.small.JPG}}"
       }
     },
     {
@@ -1970,7 +1970,7 @@
           "popupTemplate": null
         },
         "name": "Gewerkschaft",
-        "description": "im Gewerkschaftshaus\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07556.JPG}}"
+        "description": "im Gewerkschaftshaus\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07556.small.JPG}}"
       }
     },
     {
@@ -1999,7 +1999,7 @@
           "popupTemplate": null
         },
         "name": "Gewerkschaftshaus",
-        "description": "DGD,BAU,GEW,ver.di, DGB Rechtsschutz\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07556.JPG}}"
+        "description": "DGD,BAU,GEW,ver.di, DGB Rechtsschutz\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07556.small.JPG}}"
       }
     },
     {
@@ -2028,7 +2028,7 @@
           "popupTemplate": null
         },
         "name": "Wohn-Gewerbegeb\u00E4ude",
-        "description": "\u00E4ltere Architektur, im Erdgeschoss Gewerbebetriebe\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07557.JPG}}"
+        "description": "\u00E4ltere Architektur, im Erdgeschoss Gewerbebetriebe\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07557.small.JPG}}"
       }
     },
     {
@@ -2057,7 +2057,7 @@
           "popupTemplate": null
         },
         "name": "Parkplatz 2",
-        "description": "Parkpl\u00E4tze vor dem Bahnhof\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07558.JPG}}"
+        "description": "Parkpl\u00E4tze vor dem Bahnhof\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07558.small.JPG}}"
       }
     },
     {
@@ -2086,7 +2086,7 @@
           "popupTemplate": null
         },
         "name": "Bahnhof",
-        "description": "Hbf Elmshorn, Geb\u00E4ude\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07559.JPG}}"
+        "description": "Hbf Elmshorn, Geb\u00E4ude\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07559.small.JPG}}"
       }
     },
     {
@@ -2115,7 +2115,7 @@
           "popupTemplate": null
         },
         "name": "Mofas frei",
-        "description": "Verkehrsschild: Mofas, Fahrr\u00E4der und Fu\u00DFg\u00E4nger in der Unterf\u00FChrung frei\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07560.JPG}}"
+        "description": "Verkehrsschild: Mofas, Fahrr\u00E4der und Fu\u00DFg\u00E4nger in der Unterf\u00FChrung frei\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07560.small.JPG}}"
       }
     },
     {
@@ -2144,7 +2144,7 @@
           "popupTemplate": null
         },
         "name": "Unterf\u00FChrung",
-        "description": "gekachelte Unterf\u00FChrung\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07561.JPG}}"
+        "description": "gekachelte Unterf\u00FChrung\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07561.small.JPG}}"
       }
     },
     {
@@ -2173,7 +2173,7 @@
           "popupTemplate": null
         },
         "name": "Fahrradabgrenzung",
-        "description": "in der Unterf\u00FChrung\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07562.JPG}}"
+        "description": "in der Unterf\u00FChrung\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07562.small.JPG}}"
       }
     },
     {
@@ -2202,7 +2202,7 @@
           "popupTemplate": null
         },
         "name": "Beleuchtung",
-        "description": "Unterf\u00FChrungsbeleuchtung\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07563.JPG}}"
+        "description": "Unterf\u00FChrungsbeleuchtung\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07563.small.JPG}}"
       }
     },
     {
@@ -2231,7 +2231,7 @@
           "popupTemplate": null
         },
         "name": "Fahrradstra\u00DFe",
-        "description": "in der Unterf\u00FChrung\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07564.JPG}}"
+        "description": "in der Unterf\u00FChrung\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07564.small.JPG}}"
       }
     },
     {
@@ -2260,7 +2260,7 @@
           "popupTemplate": null
         },
         "name": "Parteigeb\u00E4ude",
-        "description": "Die Linke\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07565.JPG}}"
+        "description": "Die Linke\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07565.small.JPG}}"
       }
     },
     {
@@ -2289,7 +2289,7 @@
           "popupTemplate": null
         },
         "name": "Sternautomobile",
-        "description": "Autoverkauf\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07567.JPG}}"
+        "description": "Autoverkauf\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07567.small.JPG}}"
       }
     },
     {
@@ -2318,7 +2318,7 @@
           "popupTemplate": null
         },
         "name": "Debeka",
-        "description": "Versicherung\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07566.JPG}}"
+        "description": "Versicherung\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07566.small.JPG}}"
       }
     },
     {
@@ -2347,7 +2347,7 @@
           "popupTemplate": null
         },
         "name": "Beuk Vermietung",
-        "description": "Vermietung von Wohnungen und Garagen, Nissen \u0026Beuck, Rechts- und Fachanw\u00E4lte\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07568.JPG}}"
+        "description": "Vermietung von Wohnungen und Garagen, Nissen \u0026Beuck, Rechts- und Fachanw\u00E4lte\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07568.small.JPG}}"
       }
     },
     {
@@ -2376,7 +2376,7 @@
           "popupTemplate": null
         },
         "name": "Sperrm\u00FCll",
-        "description": "Vor einem Mehrfamilienhaus \n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07569.JPG}}"
+        "description": "Vor einem Mehrfamilienhaus \n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07569.small.JPG}}"
       }
     },
     {
@@ -2405,7 +2405,7 @@
           "popupTemplate": null
         },
         "name": "Mehrfamilienh\u00E4user",
-        "description": "Vermutlich Mietwohnungen \n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07570.JPG}}"
+        "description": "Vermutlich Mietwohnungen \n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07570.small.JPG}}"
       }
     },
     {
@@ -2434,7 +2434,7 @@
           "popupTemplate": null
         },
         "name": "Schillerstra\u00DFe",
-        "description": "Stra\u00DFenschild mit Info \u00FCber Schriftsteller\n\nCategory: Stra\u00DFennamen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07571.JPG}}"
+        "description": "Stra\u00DFenschild mit Info \u00FCber Schriftsteller\n\nCategory: Stra\u00DFennamen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07571.small.JPG}}"
       }
     },
     {
@@ -2463,7 +2463,7 @@
           "popupTemplate": null
         },
         "name": "Goethestra\u00DFe",
-        "description": "Stra\u00DFenschild mit Info \u00FCber Schriftsteller\n\nCategory: Stra\u00DFennamen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07572.JPG}}"
+        "description": "Stra\u00DFenschild mit Info \u00FCber Schriftsteller\n\nCategory: Stra\u00DFennamen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07572.small.JPG}}"
       }
     },
     {
@@ -2492,7 +2492,7 @@
           "popupTemplate": null
         },
         "name": "Spielhalle",
-        "description": "Spielhalle\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07573.JPG}}"
+        "description": "Spielhalle\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07573.small.JPG}}"
       }
     },
     {
@@ -2521,7 +2521,7 @@
           "popupTemplate": null
         },
         "name": "Naturstein Nord",
-        "description": "Steinmetz mit Mustersteinen\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07574.JPG}}"
+        "description": "Steinmetz mit Mustersteinen\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07574.small.JPG}}"
       }
     },
     {
@@ -2550,7 +2550,7 @@
           "popupTemplate": null
         },
         "name": "Peter Heine",
-        "description": "Steinmetz mit Mustersteinen\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07575.JPG}}"
+        "description": "Steinmetz mit Mustersteinen\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07575.small.JPG}}"
       }
     },
     {
@@ -2579,7 +2579,7 @@
           "popupTemplate": null
         },
         "name": "Spielplatz",
-        "description": "vermutlich im Hingergrund eine Schule oder ein Kindergarten\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07576.JPG}}"
+        "description": "vermutlich im Hingergrund eine Schule oder ein Kindergarten\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07576.small.JPG}}"
       }
     },
     {
@@ -2608,7 +2608,7 @@
           "popupTemplate": null
         },
         "name": "Emmaus Kirchengemeinde",
-        "description": "Informationskasten\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07577.JPG}}"
+        "description": "Informationskasten\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07577.small.JPG}}"
       }
     },
     {
@@ -2637,7 +2637,7 @@
           "popupTemplate": null
         },
         "name": "Sitzgelegenheit",
-        "description": "Holzbank\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07578.JPG}}"
+        "description": "Holzbank\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07578.small.JPG}}"
       }
     },
     {
@@ -2666,7 +2666,7 @@
           "popupTemplate": null
         },
         "name": "Evangelischer Friedhof",
-        "description": "Tor zum Friedhof, mit dem Auto befahrbar\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07579.JPG}}"
+        "description": "Tor zum Friedhof, mit dem Auto befahrbar\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07579.small.JPG}}"
       }
     },
     {
@@ -2695,7 +2695,7 @@
           "popupTemplate": null
         },
         "name": "Veloskop",
-        "description": "Fahrradladen in einem Geb\u00E4ude von 1900\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07580.JPG}}"
+        "description": "Fahrradladen in einem Geb\u00E4ude von 1900\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07580.small.JPG}}"
       }
     },
     {
@@ -2724,7 +2724,7 @@
           "popupTemplate": null
         },
         "name": "WWK",
-        "description": "Versicherung\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07582.JPG}}"
+        "description": "Versicherung\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07582.small.JPG}}"
       }
     },
     {
@@ -2753,7 +2753,7 @@
           "popupTemplate": null
         },
         "name": "Elbb\u00E4cker 4",
-        "description": "4. Filiale \n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07581.JPG}}"
+        "description": "4. Filiale \n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07581.small.JPG}}"
       }
     },
     {
@@ -2782,7 +2782,7 @@
           "popupTemplate": null
         },
         "name": "Aral",
-        "description": "Tankstelle \n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07583.JPG}}"
+        "description": "Tankstelle \n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07583.small.JPG}}"
       }
     },
     {
@@ -2811,7 +2811,7 @@
           "popupTemplate": null
         },
         "name": "Mehrfamilienh\u00E4user",
-        "description": "vermutlich Mietwohnungen\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07584.JPG}}"
+        "description": "vermutlich Mietwohnungen\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07584.small.JPG}}"
       }
     },
     {
@@ -2840,7 +2840,7 @@
           "popupTemplate": null
         },
         "name": "nicht sichtbarer Radweg",
-        "description": "durch Reparatur nicht mehr ausgewiesener Radweg\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07585.JPG}}"
+        "description": "durch Reparatur nicht mehr ausgewiesener Radweg\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07585.small.JPG}}"
       }
     },
     {
@@ -2869,7 +2869,7 @@
           "popupTemplate": null
         },
         "name": "Parkstra\u00DFe",
-        "description": "gesonderter Weg f\u00FCr parkende Autos\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07587.JPG}}"
+        "description": "gesonderter Weg f\u00FCr parkende Autos\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07587.small.JPG}}"
       }
     },
     {
@@ -2898,7 +2898,7 @@
           "popupTemplate": null
         },
         "name": "Mehrfamilienhaus",
-        "description": "gehobene Ausstattung, Vermutlich Eigentumswohnungen \n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07588.JPG}}"
+        "description": "gehobene Ausstattung, Vermutlich Eigentumswohnungen \n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07588.small.JPG}}"
       }
     },
     {
@@ -2927,7 +2927,7 @@
           "popupTemplate": null
         },
         "name": "Ende von Data Walk",
-        "description": "Ende\n\nCategory: Ende\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07589.JPG}}"
+        "description": "Ende\n\nCategory: Ende\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07589.small.JPG}}"
       }
     }
   ]
