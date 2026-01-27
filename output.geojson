@@ -21,13 +21,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:10:32",
         "_umap_options": {
-          "color": "black",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
         "name": "Beginn",
-        "description": "Anfang\n{{http://localhost:8000/DSC07480.JPG}}"
+        "description": "Anfang\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07480.JPG}}"
       }
     },
     {
@@ -50,13 +50,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:14:59",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "pink",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
         "name": "Einfamilienh\u00E4user",
-        "description": "\n{{http://localhost:8000/DSC07482.JPG}}"
+        "description": "Vermutlich Eigenheimbesitzer\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07482.JPG}}"
       }
     },
     {
@@ -79,13 +79,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:16:09",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "grey",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
         "name": "Verkehr",
-        "description": "\n{{http://localhost:8000/DSC07483.JPG}}"
+        "description": "Autoverkehr \n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07483.JPG}}"
       }
     },
     {
@@ -108,13 +108,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:17:19",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "grey",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07484.JPG}}"
+        "name": "Neue Fahrradwege",
+        "description": "Rote Radwege\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07484.JPG}}"
       }
     },
     {
@@ -137,13 +137,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:17:58",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "pink",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07485.JPG}}"
+        "name": "Einfamilienhaus ",
+        "description": "Besonderes Geb\u00E4ude\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07485.JPG}}"
       }
     },
     {
@@ -166,13 +166,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:19:54",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "red",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07486.JPG}}"
+        "name": "Firmenwagen",
+        "description": "Altes Modell steht vor einem Einfamilienhaus \n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07486.JPG}}"
       }
     },
     {
@@ -195,13 +195,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:22:16",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "red",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07487.JPG}}"
+        "name": "Photovoltaik-Platten",
+        "description": "Nur auf Einfamilienh\u00E4usern\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07487.JPG}}"
       }
     },
     {
@@ -224,13 +224,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:23:22",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "red",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07488.JPG}}"
+        "name": "Solar-Platten",
+        "description": "Nur auf Einfamilienh\u00E4usern\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07488.JPG}}"
       }
     },
     {
@@ -253,13 +253,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:25:16",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07489.JPG}}"
+        "name": "Elbb\u00E4cker",
+        "description": "1.Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07489.JPG}}"
       }
     },
     {
@@ -282,13 +282,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:26:54",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "purple",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07490.JPG}}"
+        "name": "Schuhcontainer",
+        "description": "Schuhcontainer\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07490.JPG}}"
       }
     },
     {
@@ -311,13 +311,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:27:15",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "purple",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07491.JPG}}"
+        "name": "Recycling Sammelbeh\u00E4lter",
+        "description": "6 Sammelbeh\u00E4lter/Glas, Kleidung, Papier\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07491.JPG}}"
       }
     },
     {
@@ -340,13 +340,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:27:46",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "purple",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07492.JPG}}"
+        "name": "Postkasten ",
+        "description": "Postkasten\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07492.JPG}}"
       }
     },
     {
@@ -369,13 +369,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:28:31",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "purple",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07494JPG}}"
+        "name": "Parkpl\u00E4tze",
+        "description": "Parkpl\u00E4tze vor Mehrfamilienh\u00E4usern\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07494.JPG}}"
       }
     },
     {
@@ -398,13 +398,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:29:34",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "purple",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07493.JPG}}"
+        "name": "Bushaltestelle",
+        "description": "Bushaltestelle ohne Wetterschutz\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07493.JPG}}"
       }
     },
     {
@@ -427,13 +427,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:30:12",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07495.JPG}}"
+        "name": "Friseur ",
+        "description": "Dreamcut II\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07495.JPG}}"
       }
     },
     {
@@ -456,13 +456,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:30:17",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07496.JPG}}"
+        "name": "Drogerie ",
+        "description": "steht leer\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07496.JPG}}"
       }
     },
     {
@@ -485,13 +485,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:30:33",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07497.JPG}}"
+        "name": "Geldinstitut 1",
+        "description": "1. Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07497.JPG}}"
       }
     },
     {
@@ -514,13 +514,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:31:39",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07498.JPG}}"
+        "name": "Immobilienwerbung",
+        "description": "Bilder der zum Verkauf stehenden H\u00E4user und Wohnungen im Schaufenster der Spaka/VR\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07498.JPG}}"
       }
     },
     {
@@ -543,13 +543,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:32:11",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07499.JPG}}"
+        "name": "Tief-und Stra\u00DFenbau",
+        "description": "Werbetafel\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07499.JPG}}"
       }
     },
     {
@@ -572,13 +572,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:32:22",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07500.JPG}}"
+        "name": "Standortwerbung",
+        "description": "Karte \u00FCber Verteilung von VR-Filialen in Holstein\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07500.JPG}}"
       }
     },
     {
@@ -601,13 +601,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:33:33",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "red",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07501.JPG}}"
+        "name": "Photovolatatk-Platten 2",
+        "description": "nur auf Einfamilienh\u00E4usern\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07501.JPG}}"
       }
     },
     {
@@ -630,13 +630,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:34:33",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07502.JPG}}"
+        "name": "Die Continetale",
+        "description": "Versicherung\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07502.JPG}}"
       }
     },
     {
@@ -659,13 +659,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:36:31",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07503.JPG}}"
+        "name": "W\u00E4rmetechnik nord",
+        "description": "Werbeschild am Zaun\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07503.JPG}}"
       }
     },
     {
@@ -688,13 +688,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:36:47",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "pink",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07504.JPG}}"
+        "name": "Einfamilienhaus",
+        "description": "Auff\u00E4llig mit HSV - Emblemen versehen\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07504.JPG}}"
       }
     },
     {
@@ -717,13 +717,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:37:47",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "orange",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07505.JPG}}"
+        "name": "Physiotherapiepraxis",
+        "description": "Anzeigeschild im Vorgarten\n\nCategory: Gesundheitseinrichtungen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07505.JPG}}"
       }
     },
     {
@@ -746,13 +746,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:41:35",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "pink",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07506.JPG}}"
+        "name": "Mehrfamilienhaus",
+        "description": "Vermutlich Mietwohnungen\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07506.JPG}}"
       }
     },
     {
@@ -775,13 +775,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:43:17",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "pink",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07509.JPG}}"
+        "name": "Mehrfamilienhaus",
+        "description": "Vermutlich Mietwohnungen \n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07509.JPG}}"
       }
     },
     {
@@ -804,13 +804,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:44:44",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "red",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07507.JPG}}"
+        "name": "Kirche",
+        "description": "moderne Architektur\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07507.JPG}}"
       }
     },
     {
@@ -833,13 +833,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:45:07",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "purple",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07508.JPG}}"
+        "name": "Kindertagesst\u00E4tte",
+        "description": "bunter Eingangsbereich\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07508.JPG}}"
       }
     },
     {
@@ -862,13 +862,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:46:16",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "purple",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07510.JPG}}"
+        "name": "Bushaltestelle",
+        "description": "mit Regenschutz\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07510.JPG}}"
       }
     },
     {
@@ -891,13 +891,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:48:14",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "purple",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
+        "name": "Parkplatz",
+        "description": "f\u00FCr die umliegenden Wohnblocks, auch mietbare\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07511.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07512.JPG}}"
       }
     },
     {
@@ -922,11 +922,11 @@
         "_umap_options": {
           "color": "turquoise",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
+        "name": "Thomas-Mann-Stra\u00DFe",
+        "description": "Stra\u00DFenschild mit Kurzinfo \u00FCber T. Mann\n\nCategory: Stra\u00DFennamen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07513.JPG}}"
       }
     },
     {
@@ -949,13 +949,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:53:00",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "orange",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
+        "name": "\u00C4rztehaus",
+        "description": "11 namentlich genannte Fach\u00E4rzte\n\nCategory: Gesundheitseinrichtungen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07514.JPG}}"
       }
     },
     {
@@ -978,13 +978,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:53:35",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
+        "name": "Apotheke",
+        "description": "Apotheke\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07515.JPG}}"
       }
     },
     {
@@ -1007,13 +1007,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:55:15",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
+        "name": "leerstehende Gewerbefl\u00E4che",
+        "description": "leerstehendes Gewerbefl\u00E4che\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07516.JPG}}"
       }
     },
     {
@@ -1036,13 +1036,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:56:22",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "orange",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
+        "name": "Der Fu\u00DFspezialist",
+        "description": "Fu\u00DFpflege\n\nCategory: Gesundheitseinrichtungen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07517.JPG}}"
       }
     },
     {
@@ -1065,13 +1065,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:58:01",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
+        "name": "Friseur",
+        "description": "1. Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07519.JPG}}"
       }
     },
     {
@@ -1094,13 +1094,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "11:58:51",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
+        "name": "Friseur",
+        "description": "ist in der 1. Filiale von manuel\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07518.JPG}}"
       }
     },
     {
@@ -1123,13 +1123,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:03:16",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
+        "name": "Friseur",
+        "description": "2. Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07520.JPG}}"
       }
     },
     {
@@ -1152,13 +1152,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:03:44",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/DSC07511.JPG}}"
+        "name": "Netto",
+        "description": "Supermarkt \n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07521.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07522.JPG}}"
       }
     },
     {
@@ -1181,13 +1181,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:05:23",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Elbb\u00E4cker 2",
+        "description": "2.Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07523.JPG}}"
       }
     },
     {
@@ -1210,13 +1210,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:05:44",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "black",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "K\u00F6lln Flocken",
+        "description": "Fabrik, Hersteller f\u00FCr Fr\u00FChst\u00FCckscerealien\n\nCategory: Fabrikgeb\u00E4ude\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07524.JPG}}"
       }
     },
     {
@@ -1239,13 +1239,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:05:51",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "orange",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Physiotherapiepraxis",
+        "description": "Physiotherapiepraxis\n\nCategory: Gesundheitseinrichtungen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07525.JPG}}"
       }
     },
     {
@@ -1268,13 +1268,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:07:56",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Elbb\u00E4cker 3",
+        "description": "3.Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07527.JPG}}"
       }
     },
     {
@@ -1297,13 +1297,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:11:20",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Autoservice",
+        "description": "Autoservice Mueller\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07526.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07528.JPG}}"
       }
     },
     {
@@ -1326,13 +1326,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:11:31",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "blue",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Leerfl\u00E4che",
+        "description": "umz\u00E4unter Sandplatz\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07529.JPG}}"
       }
     },
     {
@@ -1355,13 +1355,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:11:58",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "blue",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Wohnkomplex in Arbeit",
+        "description": "Baustelle, vermutlich Entstehung eines Wohnkomplexes\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07530.JPG}}"
       }
     },
     {
@@ -1384,13 +1384,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:12:37",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Autowaschanlage",
+        "description": "Autowaschanlage\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07531.JPG}}"
       }
     },
     {
@@ -1413,13 +1413,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:13:50",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "blue",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Bauvorhaben",
+        "description": "Anzeigetafel \u00FCber den R\u00FCckbau von 2 Geb\u00E4uden\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07532.JPG}}"
       }
     },
     {
@@ -1442,13 +1442,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:14:14",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "blue",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Fabrikgeb\u00E4ude",
+        "description": "leerstehendes Geb\u00E4ude\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07533.JPG}}"
       }
     },
     {
@@ -1471,13 +1471,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:14:52",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "blue",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Kulturzentrum",
+        "description": "Hinweisplakat f\u00FCr Kommunikation, Kunst und Kultur im Kranhaus\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07534.JPG}}"
       }
     },
     {
@@ -1500,13 +1500,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:16:06",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "pink",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Mehrfamilienhaus",
+        "description": "Hinweisschild f\u00FCr Stadtumbau, neues Leben im alten Denkmal\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07535.JPG}}"
       }
     },
     {
@@ -1529,13 +1529,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:18:00",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "purple",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Parkplatz",
+        "description": "Parkplatz auf Freifl\u00E4che\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07537.JPG}}"
       }
     },
     {
@@ -1558,13 +1558,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:18:15",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "blue",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Baustelle",
+        "description": "Hohe Kr\u00E4ne f\u00FCr Baustelle\n\nCategory: Stadt im Umbruch\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07536.JPG}}"
       }
     },
     {
@@ -1587,13 +1587,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:18:52",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "black",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "K\u00F6lln Flocken",
+        "description": "Fabrik, Hersteller f\u00FCr Fr\u00FChst\u00FCckscerealien\n\nCategory: Fabrikgeb\u00E4ude\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07538.JPG}}"
       }
     },
     {
@@ -1616,13 +1616,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:19:07",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "purple",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "kein Winterdienst",
+        "description": "Hinweisschild f\u00FCr Stadtumbau, neues Leben im alten Denkmal\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07539.JPG}}"
       }
     },
     {
@@ -1645,13 +1645,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:22:14",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Orlen Deutschland",
+        "description": "Werbung f\u00FCr Trikothersteller an der Bushaltestelle\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07540.JPG}}"
       }
     },
     {
@@ -1674,13 +1674,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:22:24",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "pink",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Hochhaus",
+        "description": "vermutlich Mietwohnungen\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07541.JPG}}"
       }
     },
     {
@@ -1703,13 +1703,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:23:10",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Geldinstitut 2",
+        "description": "2. Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07542.JPG}}"
       }
     },
     {
@@ -1732,13 +1732,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:24:04",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "red",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Fluss",
+        "description": "Hinweisschild auf der Br\u00FCcke \u00FCber den Fluss\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07543.JPG}}"
       }
     },
     {
@@ -1761,13 +1761,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:26:14",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "purple",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "E-Scouter",
+        "description": "Fortbewegungsmittel \n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07546.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07547.JPG}}"
       }
     },
     {
@@ -1790,13 +1790,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:27:49",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "grey",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Fu\u00DFg\u00E4ngerzone",
+        "description": "Weihnachtsbeleuchtung \u00FCber der Fu\u00DFg\u00E4ngerzone\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07548.JPG}}"
       }
     },
     {
@@ -1819,13 +1819,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:28:11",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "O2-Shop",
+        "description": "Werbung Black Weeks\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07549.JPG}}"
       }
     },
     {
@@ -1848,13 +1848,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:29:15",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Immobilienwerbung",
+        "description": "GG, Aushang der Bilder von H\u00E4usern und Wohnungen\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07550.JPG}}"
       }
     },
     {
@@ -1877,13 +1877,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:29:50",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "viele kleine Gesch\u00E4fte",
+        "description": "Haarstudio, Gastroshops und Arko\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07551.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07552.JPG}}\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07553.JPG}}"
       }
     },
     {
@@ -1906,13 +1906,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:30:27",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Gewerkschaft",
+        "description": "DGB\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07554.JPG}}"
       }
     },
     {
@@ -1935,13 +1935,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:31:13",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Geldinstitut 3",
+        "description": "1. Filiale\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07555.JPG}}"
       }
     },
     {
@@ -1964,13 +1964,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:31:52",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Gewerkschaft",
+        "description": "im Gewerkschaftshaus\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07556.JPG}}"
       }
     },
     {
@@ -1993,13 +1993,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:32:01",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Gewerkschaftshaus",
+        "description": "DGD,BAU,GEW,ver.di, DGB Rechtsschutz\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07556.JPG}}"
       }
     },
     {
@@ -2022,13 +2022,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:33:00",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "pink",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Wohn-Gewerbegeb\u00E4ude",
+        "description": "\u00E4ltere Architektur, im Erdgeschoss Gewerbebetriebe\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07557.JPG}}"
       }
     },
     {
@@ -2051,13 +2051,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:34:14",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "purple",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Parkplatz 2",
+        "description": "Parkpl\u00E4tze vor dem Bahnhof\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07558.JPG}}"
       }
     },
     {
@@ -2080,13 +2080,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:34:55",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "purple",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Bahnhof",
+        "description": "Hbf Elmshorn, Geb\u00E4ude\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07559.JPG}}"
       }
     },
     {
@@ -2109,13 +2109,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:39:37",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "grey",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Mofas frei",
+        "description": "Verkehrsschild: Mofas, Fahrr\u00E4der und Fu\u00DFg\u00E4nger in der Unterf\u00FChrung frei\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07560.JPG}}"
       }
     },
     {
@@ -2138,13 +2138,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:40:00",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "grey",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Unterf\u00FChrung",
+        "description": "gekachelte Unterf\u00FChrung\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07561.JPG}}"
       }
     },
     {
@@ -2167,13 +2167,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:41:50",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "grey",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Fahrradabgrenzung",
+        "description": "in der Unterf\u00FChrung\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07562.JPG}}"
       }
     },
     {
@@ -2196,13 +2196,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:42:00",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "red",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Beleuchtung",
+        "description": "Unterf\u00FChrungsbeleuchtung\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07563.JPG}}"
       }
     },
     {
@@ -2225,13 +2225,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:44:50",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "grey",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Fahrradstra\u00DFe",
+        "description": "in der Unterf\u00FChrung\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07564.JPG}}"
       }
     },
     {
@@ -2254,13 +2254,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:45:32",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Parteigeb\u00E4ude",
+        "description": "Die Linke\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07565.JPG}}"
       }
     },
     {
@@ -2283,13 +2283,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:47:22",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Sternautomobile",
+        "description": "Autoverkauf\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07567.JPG}}"
       }
     },
     {
@@ -2312,13 +2312,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:47:45",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Debeka",
+        "description": "Versicherung\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07566.JPG}}"
       }
     },
     {
@@ -2341,13 +2341,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:48:02",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Beuk Vermietung",
+        "description": "Vermietung von Wohnungen und Garagen, Nissen \u0026Beuck, Rechts- und Fachanw\u00E4lte\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07568.JPG}}"
       }
     },
     {
@@ -2370,13 +2370,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:49:16",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "red",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Sperrm\u00FCll",
+        "description": "Vor einem Mehrfamilienhaus \n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07569.JPG}}"
       }
     },
     {
@@ -2399,13 +2399,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:49:54",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "pink",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Mehrfamilienh\u00E4user",
+        "description": "Vermutlich Mietwohnungen \n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07570.JPG}}"
       }
     },
     {
@@ -2430,11 +2430,11 @@
         "_umap_options": {
           "color": "turquoise",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Schillerstra\u00DFe",
+        "description": "Stra\u00DFenschild mit Info \u00FCber Schriftsteller\n\nCategory: Stra\u00DFennamen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07571.JPG}}"
       }
     },
     {
@@ -2459,11 +2459,11 @@
         "_umap_options": {
           "color": "turquoise",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Goethestra\u00DFe",
+        "description": "Stra\u00DFenschild mit Info \u00FCber Schriftsteller\n\nCategory: Stra\u00DFennamen\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07572.JPG}}"
       }
     },
     {
@@ -2486,13 +2486,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:56:13",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Spielhalle",
+        "description": "Spielhalle\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07573.JPG}}"
       }
     },
     {
@@ -2515,13 +2515,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:57:50",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Naturstein Nord",
+        "description": "Steinmetz mit Mustersteinen\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07574.JPG}}"
       }
     },
     {
@@ -2544,13 +2544,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "12:59:51",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Peter Heine",
+        "description": "Steinmetz mit Mustersteinen\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07575.JPG}}"
       }
     },
     {
@@ -2573,13 +2573,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:01:22",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Spielplatz",
+        "description": "vermutlich im Hingergrund eine Schule oder ein Kindergarten\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07576.JPG}}"
       }
     },
     {
@@ -2602,13 +2602,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:02:28",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "red",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Emmaus Kirchengemeinde",
+        "description": "Informationskasten\n\nCategory: Besonderheiten\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07577.JPG}}"
       }
     },
     {
@@ -2631,13 +2631,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:03:52",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "purple",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Sitzgelegenheit",
+        "description": "Holzbank\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07578.JPG}}"
       }
     },
     {
@@ -2660,13 +2660,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:04:04",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "purple",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Evangelischer Friedhof",
+        "description": "Tor zum Friedhof, mit dem Auto befahrbar\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07579.JPG}}"
       }
     },
     {
@@ -2689,13 +2689,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:06:27",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "purple",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Veloskop",
+        "description": "Fahrradladen in einem Geb\u00E4ude von 1900\n\nCategory: Infrastruktur\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07580.JPG}}"
       }
     },
     {
@@ -2718,13 +2718,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:06:56",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "WWK",
+        "description": "Versicherung\n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07582.JPG}}"
       }
     },
     {
@@ -2747,13 +2747,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:07:25",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Elbb\u00E4cker 4",
+        "description": "4. Filiale \n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07581.JPG}}"
       }
     },
     {
@@ -2776,13 +2776,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:09:06",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "green",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Aral",
+        "description": "Tankstelle \n\nCategory: Gewerbe\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07583.JPG}}"
       }
     },
     {
@@ -2805,13 +2805,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:12:29",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "pink",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Mehrfamilienh\u00E4user",
+        "description": "vermutlich Mietwohnungen\n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07584.JPG}}"
       }
     },
     {
@@ -2834,13 +2834,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:13:05",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "grey",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "nicht sichtbarer Radweg",
+        "description": "durch Reparatur nicht mehr ausgewiesener Radweg\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07585.JPG}}"
       }
     },
     {
@@ -2863,13 +2863,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:14:25",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "grey",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Parkstra\u00DFe",
+        "description": "gesonderter Weg f\u00FCr parkende Autos\n\nCategory: Verkehrswege\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07587.JPG}}"
       }
     },
     {
@@ -2892,13 +2892,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:16:24",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "pink",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Mehrfamilienhaus",
+        "description": "gehobene Ausstattung, Vermutlich Eigentumswohnungen \n\nCategory: Bebauung\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07588.JPG}}"
       }
     },
     {
@@ -2921,13 +2921,13 @@
         "date": "2025-12-11T00:00:00",
         "time": "13:19:55",
         "_umap_options": {
-          "color": "turquoise",
+          "color": "blue",
           "popupShape": "Panel",
-          "iconClass": "Drop",
+          "iconClass": "Circle",
           "popupTemplate": null
         },
-        "name": "",
-        "description": "\n{{http://localhost:8000/}}"
+        "name": "Ende von Data Walk",
+        "description": "Ende\n\nCategory: Ende\n\n{{https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/DSC07589.JPG}}"
       }
     }
   ]

@@ -1,5 +1,6 @@
 #:property PublishAot=false
 #:package CsvHelper@33.1.0
+#nullable disable
 using System.Text.Json;
 using System.Text.Json.Nodes;
 using System.Text.Json.Serialization;
@@ -19,16 +20,35 @@ using var reader = new StreamReader(csvFs);
 using var csv = new CsvHelper.CsvReader(reader, System.Globalization.CultureInfo.InvariantCulture);
 var corallations = csv.GetRecords<Corallation>().ToArray();
 
-if(corallations.Length != geo.Features.Length)
+foreach (var c in corallations)
+{
+    c.Category = c.Category.Trim();
+}
+
+
+
+if (corallations.Length != geo.Features.Length)
 {
     throw new Exception("Corallation count does not match feature count");
 }
 
 var categories = new Dictionary<string, string>
 {
-    ["Beginn"] = "red",
+    ["Besonderheiten"] = "red",
+    ["Ende"] = "blue",
+    ["Fabrikgebäude"] = "black",
+    ["Gesundheitseinrichtungen"] = "orange",
+    ["Stadt im Umbruch"] = "blue",
+    ["Infrastruktur"] = "purple",
+    ["Straßennamen"] = "turquoise",
+    ["Verkehrswege"] = "grey",
+    ["Bebauung"] = "pink",
+    ["Gewerbe"] = "green",
 };
-
+foreach (var c in corallations.Select(c => c.Category).Distinct().Except(categories.Keys).Order().ToList())
+{
+    Console.WriteLine($"Unhadled Category: '{c}'");
+}
 
 foreach (var entry in geo.Features.Zip(corallations))
 {
@@ -36,19 +56,38 @@ foreach (var entry in geo.Features.Zip(corallations))
     var c = entry.Second;
     f.Properties.UmapOptions = UmapOptions.Default;
     f.Properties.Name = c.Name;
-    if(!string.IsNullOrWhiteSpace(c.Category))
+    if (!string.IsNullOrWhiteSpace(c.Category))
         f.Properties.UmapOptions.Color = categories.GetValueOrDefault(c.Category, "black");
-    f.Properties.Description = 
-    $$$"""
-    {{{c.Description}}}
-    {{http://localhost:8000/{{{c.ImageId}}}}}
+    f.Properties.Description =
+    $"""
+    {c.Description}
+
+    Category: {c.Category}
+    
     """;
+    foreach (var img in c.ImageId.Split(' '))
+    {
+        if (!File.Exists($"img/{img}"))
+        {
+            Console.WriteLine($"Image not found: {img}");
+            continue;
+        }
+
+        var url = $"https://raw.githubusercontent.com/polferov/medpaed-2026/refs/heads/main/img/{img}";
+        f.Properties.Description +=
+        $$$"""
+        
+        {{{{{url}}}}}
+        """;
+    }
+
 }
 
 
 using var outputFs = File.Create("output.geojson");
 await JsonSerializer.SerializeAsync(outputFs, geo, serializerOptions);
 
+[Obsolete("Was used for setup only")]
 void CreateCsv(GeoJsonRoot geo)
 {
     using var csv = File.OpenWrite("corallation.csv");
@@ -63,6 +102,7 @@ void CreateCsv(GeoJsonRoot geo)
         );
     }
 }
+_ = nameof(CreateCsv); // to avoid unused warning
 
 class GeoJsonRoot
 {
@@ -88,7 +128,7 @@ class GeoJsonProperties
     public DateTime Date { get; set; }
     public TimeSpan Time { get; set; }
     [JsonPropertyName("_umap_options")]
-    public UmapOptions? UmapOptions { get; set; }
+    public UmapOptions UmapOptions { get; set; }
     public string Name { get; set; }
     public string Description { get; set; }
 }
@@ -105,7 +145,7 @@ class UmapOptions
     {
         Color = "turquoise",
         PopupShape = "Panel", // Large or Panel
-        IconClass = "Drop"
+        IconClass = "Circle"
     };
 }
 
