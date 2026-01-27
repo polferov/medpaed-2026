@@ -5,6 +5,10 @@
 # requires imagemagick
 
 for file in img/*.JPG; do
+    # Skip files that are already downsized
+    if [[ "$file" == *.small.JPG ]]; then
+        continue
+    fi
     if [ -f "$file" ]; then
         # Extract filename without extension
         basename="${file%.JPG}"
